@@ -22,7 +22,7 @@ jobs:
     - name: Test with pytest
       run: |
         make test
-
     - name: Format Code
       run: |
+        pip install --upgrade click
         make format
