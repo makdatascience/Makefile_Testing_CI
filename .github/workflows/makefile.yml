@@ -1,4 +1,4 @@
-name: Makefile CI: python application with github action
+name: Makefile CI python application with github action
 
 on: [push]
   
